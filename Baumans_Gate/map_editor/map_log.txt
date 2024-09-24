@@ -1,0 +1,6 @@
+editor_menu.py[LINE:31]# INFO     [2024-09-11 22:57:16,860]  Создана карта map
+editor_menu.py[LINE:31]# INFO     [2024-09-12 16:35:09,974]  Создана карта karta
+editor_menu.py[LINE:31]# INFO     [2024-09-12 17:07:41,544]  Создана карта karta1
+editor_menu.py[LINE:34]# INFO     [2024-09-12 17:08:23,555]  Изменена карта karta1
+editor_menu.py[LINE:31]# INFO     [2024-09-13 12:29:38,909]  Создана карта karta5
+editor_menu.py[LINE:34]# INFO     [2024-09-13 12:30:33,147]  Изменена карта karta5
